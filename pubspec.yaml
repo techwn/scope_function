@@ -1,6 +1,6 @@
 name: scope_function
-description: A Dart implementation similar to Kotlin scope functions.
-version: 1.0.0
+description: A Dart implementation similar to Kotlin scope functions, enable you for powerful chained programming style.
+version: 1.0.1
 repository: https://github.com/techwnn/scope_function
 
 environment:
