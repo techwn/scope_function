@@ -1,13 +1,10 @@
 name: scope_function
 description: A Dart implementation similar to Kotlin scope functions, enable you for powerful chained programming style.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/techwnn/scope_function
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-
-# dependencies:
-#   path: ^1.8.0
+  sdk: '>=2.12.0 <4.0.0'
 
 dev_dependencies:
   lints: ^2.0.0
